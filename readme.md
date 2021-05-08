@@ -1,9 +1,3 @@
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">

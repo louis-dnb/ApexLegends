@@ -13,7 +13,7 @@
     <br />
     <a href="https://github.com/louisM3/ApexLegends/issues">Report Bug</a>
     ·
-    <a href="https://github.com/louisM3/ApexLegends/issues">Request Feature</a>
+    <a href="https://github.com/louisM3/ApexLegends/issues">Requests</a>
     ·
     <a href="https://github.com/louisM3/ApexLegends/pulls">Send a Pull Request</a>
   </p>

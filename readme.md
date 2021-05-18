@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/louisM3/ApexLegends/">
+  <a href="https://github.com/louis-dnb/ApexLegends/">
     <img src="./logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,11 +11,11 @@
     Apex Legends reversing
     <br />
     <br />
-    <a href="https://github.com/louisM3/ApexLegends/issues">Report Bug</a>
+    <a href="https://github.com/louis-dnb/ApexLegends/issues">Report Bug</a>
     ·
-    <a href="https://github.com/louisM3/ApexLegends/issues">Requests</a>
+    <a href="https://github.com/louis-dnb/ApexLegends/issues">Requests</a>
     ·
-    <a href="https://github.com/louisM3/ApexLegends/pulls">Send a Pull Request</a>
+    <a href="https://github.com/louis-dnb/ApexLegends/pulls">Send a Pull Request</a>
   </p>
 </p>
 
@@ -24,8 +24,8 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Apex Legends Offsets](https://github.com/louisM3/ApexLegends/tree/main/Offsets)
-* [Apex Legends Season 9](https://github.com/louisM3/ApexLegends/tree/main/Season%209)
+* [Apex Legends Offsets](https://github.com/louis-dnb/ApexLegends/tree/main/Offsets)
+* [Apex Legends Season 9](https://github.com/louis-dnb/ApexLegends/tree/main/Season%209)
 
 ## Tools Used
 * [IDA Pro](https://www.hex-rays.com/ida-pro/)
@@ -37,7 +37,7 @@
 
 louisdnb#6380 - [Unknowncheats](https://www.unknowncheats.me/forum/members/3816071.html)
 
-Project Link: [https://github.com/louisM3/ApexLegends](https://github.com/louisM3/ApexLegends)
+Project Link: [https://github.com/louis-dnb/ApexLegends](https://github.com/louis-dnb/ApexLegends)
 
 
 
@@ -47,8 +47,8 @@ Project Link: [https://github.com/louisM3/ApexLegends](https://github.com/louisM
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [forks-shield]: https://img.shields.io/github/forks/roshanlam/ReadMeTemplate?style=for-the-badge
-[forks-url]: https://github.com/louisM3/ApexLegends/network/members
+[forks-url]: https://github.com/louis-dnb/ApexLegends/network/members
 [stars-shield]: https://img.shields.io/github/stars/roshanlam/ReadMeTemplate?style=for-the-badge
-[stars-url]: https://github.com/louisM3/ApexLegends/stargazers
+[stars-url]: https://github.com/louis-dnb/ApexLegends/stargazers
 [issues-shield]: https://img.shields.io/github/issues/roshanlam/ReadMeTemplate?style=for-the-badge
 [issues-url]: https://github.com/roshanlam/ReadMeTemplate/issues

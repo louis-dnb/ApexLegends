@@ -26,6 +26,7 @@
 ## Table of Contents
 
 * [Apex Legends Offsets](https://github.com/louis-dnb/ApexLegends/tree/main/Offsets)
+* [Apex Legends Icons](https://github.com/louis-dnb/ApexLegends/tree/main/Icons)
 * [Apex Legends Season 9](https://github.com/louis-dnb/ApexLegends/tree/main/Season%209)
 * [Apex Legends Season 10](https://github.com/louis-dnb/ApexLegends/tree/main/Season%2010)
 * [Apex Legends Season 11](https://github.com/louis-dnb/ApexLegends/tree/main/Season%2011)
@@ -35,6 +36,9 @@
 * [Scylla](https://github.com/NtQuery/Scylla)
 * [Apexbot Offset Dumper by CasualX](https://github.com/CasualX/apexbot/tree/master/offsets)
 * [Legion](https://wiki.modme.co/wiki/apps/Legion.html)
+
+## Credits
+* [EastArtica for the icons](https://github.com/EastArctica)
 
 <!-- CONTACT -->
 ## Contact

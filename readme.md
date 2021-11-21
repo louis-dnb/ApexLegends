@@ -38,7 +38,7 @@
 * [Legion](https://wiki.modme.co/wiki/apps/Legion.html)
 
 ## Credits
-* [EastArtica for the icons](https://github.com/EastArctica)
+* [EastArtica for the SVG version icons](https://github.com/EastArctica)
 
 <!-- CONTACT -->
 ## Contact

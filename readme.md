@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/louis-dnb/ApexLegends/">
-    <img src="./logo1.png" alt="Logo" width="150" height="150">
+    <img src="./logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Apex Legends</h3>
@@ -27,11 +27,14 @@
 
 * [Apex Legends Offsets](https://github.com/louis-dnb/ApexLegends/tree/main/Offsets)
 * [Apex Legends Season 9](https://github.com/louis-dnb/ApexLegends/tree/main/Season%209)
+* [Apex Legends Season 10](https://github.com/louis-dnb/ApexLegends/tree/main/Season%2010)
+* [Apex Legends Season 11](https://github.com/louis-dnb/ApexLegends/tree/main/Season%2011)
 
 ## Tools Used
 * [IDA Pro](https://www.hex-rays.com/ida-pro/)
 * [Scylla](https://github.com/NtQuery/Scylla)
 * [Apexbot Offset Dumper by CasualX](https://github.com/CasualX/apexbot/tree/master/offsets)
+* [Legion](https://wiki.modme.co/wiki/apps/Legion.html)
 
 <!-- CONTACT -->
 ## Contact
